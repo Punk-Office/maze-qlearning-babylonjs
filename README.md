@@ -9,3 +9,6 @@ Type `npm run start` to start up browser with project
 
 ## Additional notes
 The rendering is separated from the maze logic so you can create your own renderer (3D or 2D) and use that instead
+
+# Demo
+There is a demo you can try at [punkoffice.com/maze](https://punkoffice.com/maze)
